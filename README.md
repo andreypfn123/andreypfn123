@@ -5,6 +5,10 @@
 <img src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gif"/>
 <div align="center">
 
+  <a href="https://instagram.com/andrey_pelagio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andreypfn123@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andrey-pelagio-4327a2249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 <div align="center">
   <a href="https://github.com/andreypfn123">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andreypfn123&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,11 +23,6 @@
 </div>
 
 ##
-
-<div> 
-  <a href="https://instagram.com/andrey_pelagio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andreypfn123@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andrey-pelagio-4327a2249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ![Snake animation](https://github.com/andreypfn123/andreypfn123/blob/output/github-contribution-grid-snake.svg)
  
