@@ -2,7 +2,7 @@
 
 #### - 🌱 Estudando Python, JavaScript, HTML e CSS
 
-<img src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gif"/>
+<img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105.gif"/>
 <div align="center">
 
   <a href="https://instagram.com/andrey_pelagio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
