@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Andrey Pelagio, estudante de programação 👋
 
-- 🌱 Estudando JavaScript, HTML e CSS
+- 🌱 Estudando Python, JavaScript, HTML e CSS
 
 <div align="center">
   <a href="https://github.com/andreypfn123">
